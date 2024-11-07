@@ -1,5 +1,2 @@
-
-main brach er a.txt file
-
-merge-conflict branch er a.txt file
+main branch er a.txt file
 
