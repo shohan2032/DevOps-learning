@@ -1,6 +1,6 @@
-
+<<<<<<< HEAD
 main branch er a.txt file
-
+=======
 updated a.txt file in merge-conflict branch
-
+>>>>>>> merge-conflict
 
